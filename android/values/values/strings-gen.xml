@@ -915,5 +915,5 @@
     <string name="homekit_assign">Assign</string>
     <string name="homekit_lock_added_title">Lock added</string>
     <string name="homekit_lock_added_description">Your lock has been added to Home app.</string>
-    <string name="YSH_TEST_TRANSLATIONS">Yuliia testing translation</string>
+    <string name="YSH_TEST_TRANSLATIONS">Yuliia testing translation 1 - update only for android, but lets see if ios gets it</string>
 </resources>
