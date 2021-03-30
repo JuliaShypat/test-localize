@@ -1092,3 +1092,4 @@
 "homekit_assign" = "Assign";
 "homekit_lock_added_title" = "Lock added";
 "homekit_lock_added_description" = "Your lock has been added to Home app.";
+"YSH_TEST_TRANSLATIONS_2" = "Yuliia Test - added only for ios from weblate";
