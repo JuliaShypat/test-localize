@@ -1093,4 +1093,4 @@
 "homekit_lock_added_description" = "Twój zamek został dodany do aplikacji Dom.";
 /********** Common strings **********/
 
-"YSH_TEST_TRANSLATIONS" = "Julia testuje translacje (to dodane z weblate)";
+"YSH_TEST_TRANSLATIONS" = "YSH test - Update one time";
