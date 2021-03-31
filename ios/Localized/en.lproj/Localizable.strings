@@ -7,7 +7,7 @@
 /********** Common strings **********/
 
 "YSH_TEST_TRANSLATIONS" = "Yuliia testing translation 1 - update only for android, but lets see if ios gets it";
-"sorry" = "Sorry";
+"sorry" = "Sorry Sorry";
 "connect" = "Connect";
 "connected" = "Connected";
 "disconnected" = "Disconnected";
