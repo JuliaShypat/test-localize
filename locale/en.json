@@ -15,7 +15,6 @@
   "to": "To",
   "yesterday": "Yesterday",
   "today": "Today",
-
   "organizations": "Organizations",
   "dashboard": "Dashboard",
   "permissions": "Permissions",
@@ -29,16 +28,13 @@
   "lists": "Lists",
   "groups": "Groups",
   "my_locks": "My locks",
-
   "help": "Help",
   "privacy_policy": "Privacy policy",
   "terms_and_conditions": "Terms and conditions",
   "log_out": "Log out",
-
   "link_help": "https://tedee.com/en/support/",
   "link_terms_and_conditions": "https://tedee.com/portal-termsconditions/",
   "link_privacy_policy": "https://tedee.com/app-privacy-policy/",
-
   "my_locks_collapse_all": "Collapse all",
   "my_locks_expand_all": "Expand all",
   "my_locks_action_required": "Some locks require an action",
@@ -46,7 +42,6 @@
   "my_locks_locks_count": "Locks",
   "my_locks_locks_opened_count": "Locks unlocked",
   "my_locks_locks_closed_count": "Locks locked",
-
   "all": "All",
   "locks": "Locks",
   "bridges": "Bridges",
@@ -59,10 +54,8 @@
   "delete_organization_warning": "You are about to delete an organization '{{orgName}}'. All data will be lost irretrievably.",
   "delete_organization_action": "Please type an organization name to confirm.",
   "organization_name": "Organization name",
-
   "edit": "Edit",
   "delete": "Delete",
-
   "validation_required": "This field is required.",
   "validation_email": "The e-mail address provided is incorrect.",
   "validation_min_length": "This field cannot contain less than {{length}} characters.",
@@ -74,10 +67,8 @@
   "validation_start_date_greater_than_end": "The start date cannot be equal to or greater than the end date.",
   "validation_start_time_greater_than_end": "The start time cannot be equal to or greater than the end time.",
   "validation_organization_name_match": "Organization name is not correct",
-
   "form_upload_placeholder": "Drag file or <strong>click here</strong> to browse.",
   "apply_button": "Apply",
-
   "permissions_invite_user": "Invite user",
   "permissions_user_not_found": "User not found in organization and will be automatically created.",
   "permissions_locks": "Locks - Permissions",
@@ -125,7 +116,6 @@
   "friday_short": "Fr",
   "saturday_short": "Sa",
   "sunday_short": "Su",
-
   "device_details": "Device details",
   "device_users": "Device users",
   "device_activities": "Device activities",
@@ -183,7 +173,6 @@
   "accept": "Accept",
   "no_device_activities_found_description": "This device does not have any activities.",
   "no_device_users_found_description": "No user was found with permission for this device.",
-
   "user_details": "User details",
   "user_profile": "User profile",
   "user_devices": "User devices",
@@ -205,12 +194,9 @@
   "no_users_found_description": "This organization has no users, add the first one and try again.",
   "invitation_is_pending": "Your invitation is pending to be accepted by the user.",
   "pending": "Pending",
-
   "api_error_messsage_url_already_in_use": "The specified url is already in use by another organization.",
-
   "role_administrators": "Admin",
   "role_owner": "Owner",
-
   "enum_deviceType_1": "Bridge",
   "enum_deviceType_2": "Lock",
   "enum_deviceEvent_32": "Locked",
@@ -241,12 +227,10 @@
   "enum_deviceEvent_58": "Semi-locked by Homekit",
   "enum_deviceEvent_59": "Locked by Homekit",
   "enum_deviceEvent_60": "Spring pulled by Homekit",
-
   "consent_title": "Consent",
   "consent_body": "In order to use application, I have read and accepted:",
   "consent_reject": "Reject and logout",
   "consent_accept": "Accept",
-
   "organization_administrators": "Organization administrators",
   "administrators_tooltip": "All users that can manage this organization",
   "add_administrator": "Add administrator",
@@ -254,7 +238,6 @@
   "delete_admin_question": "Are you sure you want to remove '{{userName}}' from administrators?",
   "no_administrators_found": "No administrators found",
   "no_administrators_found_description": "This organization has no administrators yet, add the first one.",
-
   "my_locks_tooltip": "All mine locks",
   "low_battery": "Low battery",
   "lock_not_resonding": "Lock not responding",
@@ -268,6 +251,7 @@
   "lock_unlock_pull": "Unlock & Pull",
   "lock_pull": "Pull",
   "lock_force_unlock": "Force unlock",
+  "enum_deviceEvent_56": "YSH test translation from poeditor",
   "YSH_nested": {
     "YSH_test": "test"
   }
